@@ -1,6 +1,6 @@
 # Donna: architecture
 
-Status: locked for v1 (Nov 2026). Donna reuses the shared agent platform built for my business automation agents: its intake, approval queue, action executor and audit log.
+Status: locked for v1 (Nov 2026). Donna reuses the platform from [backoffice-agents](https://github.com/mariyampangarkar19/backoffice-agents): its intake, approval queue, action executor and audit log.
 
 ## Principles this design follows
 
